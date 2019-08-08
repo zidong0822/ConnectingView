@@ -1,0 +1,6 @@
+framework module Pods_ConnectingView {
+  umbrella header "Pods-ConnectingView-umbrella.h"
+
+  export *
+  module * { export * }
+}

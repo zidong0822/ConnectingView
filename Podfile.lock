@@ -1,0 +1,36 @@
+PODS:
+  - PromiseKit (6.8.3):
+    - PromiseKit/CorePromise (= 6.8.3)
+    - PromiseKit/Foundation (= 6.8.3)
+    - PromiseKit/UIKit (= 6.8.3)
+  - PromiseKit/CorePromise (6.8.3)
+  - PromiseKit/Foundation (6.8.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.8.3):
+    - PromiseKit/CorePromise
+  - Pulsator (0.5.3)
+  - SnapKit (4.0.1)
+  - SwiftTheme (0.4.3)
+
+DEPENDENCIES:
+  - PromiseKit (~> 6.0)
+  - Pulsator
+  - SnapKit (~> 4.0.0)
+  - SwiftTheme
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PromiseKit
+    - Pulsator
+    - SnapKit
+    - SwiftTheme
+
+SPEC CHECKSUMS:
+  PromiseKit: 94c6e781838c5bf4717677d0d882b0e7250c80fc
+  Pulsator: d58707c6827ec862cd89fd727424866795dabd24
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftTheme: 628345b948068a48d330d76dffb1a990ea5f90aa
+
+PODFILE CHECKSUM: 3652182c475ea7f86c1cf678eafa0cab4664584d
+
+COCOAPODS: 1.6.0.beta.2
